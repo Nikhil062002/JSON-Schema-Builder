@@ -16,11 +16,10 @@ A dynamic web-based JSON Schema Builder built using React, React Hook Form, and 
 📦 Clean, modular React component structure
 
 🛠 Tech Stack
- -React.js
+- React.js
 - React Hook Form
 - JavaScript (ES6+)
-
-Vite (for fast build and dev server)
+- Vite (for fast build and dev server)
 
 🚀 Getting Started Prerequisites
 - Node.js v16+
